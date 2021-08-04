@@ -5,7 +5,7 @@ certifi==2020.12.5
 chardet==4.0.0
 colorama==0.4.4
 distlib==0.3.1
-Django==3.1.7
+Django==3.1.12
 django-crispy-forms==1.11.2
 filelock==3.0.12
 googlemaps==4.4.5
