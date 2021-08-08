@@ -34,9 +34,6 @@ http://127.0.0.1:port/
 - [@ShahriarShafin](https://github.com/ShahriarShafin)
 - [@SohagHossen](https://github.com/SohagHossen)
 
-## Note:
-We are getting ready to compleate and launch it soon !
-
 ## License
 ```
 MIT License
